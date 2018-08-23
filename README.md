@@ -179,15 +179,95 @@ Student Services within the first two weeks of class.
 ### Week 1 (27 August 2018)
 - Topics: Introduction, What is proof?, Sets, Lists
 - Reading: Epp 1.2-3, 4.1-2; EF Lecture 1
-- Online Quize: due Friday 
+- Online Quiz: due Friday 
 
 ### Week 2 (5 September 2018)
 - Sept. 3 is Labor day.  Enjoy the holiday!
 - Topics: Binomial coefficients, permutations, combinations, counterexamples 
 - Reading: Epp 4.3-4, 9.2, 9.6
-- Homework-01: due Monday
-- Online Quize: due Wednesday 
+- Online Quiz: due Wednesday (5 September 2018)
+- Homework-01: due Monday (10 September 2018)
 
+### Week 3 (10 September 2018)
+- Topics: equivalence relations, boolean algebra 
+- Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3, 4CT Ch Preface
+- Online Quiz: due Wednesday (12 September 2018) 
+- Homework-02: due Monday (17 September 2018)
+
+### Week 4 (17 September 2018)
+- Topics: quantifiers, predicates, and Big-O notation
+- Reading: Epp Ch. 3.1-3.4, 4CT Ch 1
+- Online Quiz: due Wednesday (19 September 2018) 
+- Exam: Next Monday (24 September 2018)
+
+### Week 5 (24 September 2018)
+- Exam: Monday the 24th of September
+- Topics: inference
+- Reading: 4CT Ch 2
+- Online Quiz: due Wednesday (26 September 2018)
+- Homework-03: due Monday (1 October 2018)
+
+### Week 6 (1 October 2018)
+- Topics: mathematical induction, sequences, summations, recursion
+- Reading: Epp Ch. 5.1-5.4, 4CT Ch 3
+- Online Quiz: due Wednesday (3 September 2018)
+- Homework-04: due Monday (8 October 2018)
+
+### Week 7 (8 October 2018)
+- Topics: growth rates, solving recurrence relations, divide and conquer
+- Reading: Epp Ch. 5.5-5.6, 4CT Ch 4
+- Online Quiz: due Wednesday (10 September 2018)
+- Homework-05: due Monday (15 October 2018)
+
+### Week 8 (15 October 2018)
+- Topics: modular arithmetic, inverses (proof by contradiction)
+- Reading: Epp Ch. 8.4, 4CT Ch 5
+- Online Quiz: due Wednesday (17 September 2018)
+- Homework-06: due Monday (22 October 2018)
+
+### Week 9 (22 October 2018)
+- Topics: Euclid's algorithm, RSA cryptosystem
+- Reading: Epp Ch. 8.5, 4CT Ch 6
+- Online Quiz: due Wednesday (24 September 2018)
+- Exam: Next Monday (29 October 2018)
+
+### Week 10 (29 October 2018)
+- Exam: Monday the 29th of October
+- Topics: inclusion and exclusion
+- Reading: Epp Ch. 9.1-9.3, 4CT Ch 7
+- Online Quiz: due Wednesday (29 September 2018)
+- Homework-07: Next Monday (5 November 2018)
+
+### Week 11 (5 November 2018)
+- Topics: conditional probability, random variables, expected values
+- Reading: 4CT Ch 8
+- Online Quiz: due Wednesday (7 November 2018)
+- Homework-08: Next Monday (12 November 2018)
+
+### Week 12 (12 November 2018)
+- Nov. 12 is Veterans day.  Enjoy the holiday!
+- Topics: probability in hashing
+- Reading: 4CT Ch 9
+- Online Quiz: due Wednesday (14 November 2018)
+- Homework-09: Next Monday (19 November 2018)
+
+### Week 13 (19 November 2018)
+- Nov. 21 and 23 are part of Thanksgiving Break.  Enjoy the holidays!
+- Topics: probability distributions, variance
+
+### Week 14 (26 November 2018)
+- Topics: trees, tours
+- Reading: Epp. 10.1-10.3, 4CT Ch 10
+- Online Quiz: due Wednesday (28 November 2018)
+- Homework-10: Next Monday (3 December 2018)
+
+### Week 15 (3 December 2018)
+- Topics: matching, bipartite graphs, pigeon hole principle, planar graphs
+- Reading: Epp. 9.4, 4CT Ch 11
+- Online Quiz: due Wednesday (5 December 2018)
+
+### Finals Week
+- Final Exam: cumulative exam from 4:00-5:50pm on the 10th of December [Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf)
 --- 
 
 This syllabus was created, using wording from previous courses that I have
