@@ -197,7 +197,7 @@ Student Services within the first two weeks of class.
 ### Week 4 (17 September 2018)
 - Topics: quantifiers, predicates, and Big-O notation
 - Reading: Epp Ch. 3.1-3.4, 4CT Ch 1
-- Homework-02: due Monday (17 September 2018)
+- Homework-03: due Monday (17 September 2018)
 - Online Quiz: due Wednesday (19 September 2018) 
 
 ### Week 5 (24 September 2018)
@@ -209,29 +209,29 @@ Student Services within the first two weeks of class.
 ### Week 6 (1 October 2018)
 - Topics: mathematical induction, sequences, summations, recursion
 - Reading: Epp Ch. 5.1-5.4, 4CT Ch 3
-- Homework-03: due Monday (1 October 2018)
+- Homework-04: due Monday (1 October 2018)
 - Online Quiz: due Wednesday (3 September 2018)
 
 ### Week 7 (8 October 2018)
 - Topics: growth rates, solving recurrence relations, divide and conquer
 - Reading: Epp Ch. 5.5-5.6, 4CT Ch 4
-- Homework-04: due Monday (8 October 2018)
+- Homework-05: due Monday (8 October 2018)
 - Online Quiz: due Wednesday (10 September 2018)
 
 ### Week 8 (15 October 2018)
 - Topics: modular arithmetic, inverses (proof by contradiction)
 - Reading: Epp Ch. 8.4, 4CT Ch 5
+- Homework-06: due Monday (15 October 2018)
 - Online Quiz: due Wednesday (17 September 2018)
-- Homework-05: due Monday (15 October 2018)
 
 ### Week 9 (22 October 2018)
 - Topics: Euclid's algorithm, RSA cryptosystem
 - Reading: Epp Ch. 8.5, 4CT Ch 6
-- Homework-06: due Monday (22 October 2018)
+- Homework-07: due Monday (22 October 2018)
 - Online Quiz: due Wednesday (24 September 2018)
 
 ### Week 10 (29 October 2018)
-- **Exam: Monday the 29th of October
+- **Exam: Monday the 29th of October**
 - Topics: inclusion and exclusion
 - Reading: Epp Ch. 9.1-9.3, 4CT Ch 7
 - Online Quiz: due Wednesday (29 September 2018)
@@ -239,19 +239,19 @@ Student Services within the first two weeks of class.
 ### Week 11 (5 November 2018)
 - Topics: conditional probability, random variables, expected values
 - Reading: 4CT Ch 8
-- Homework-07: due Monday (5 November 2018)
+- Homework-08: due Monday (5 November 2018)
 - Online Quiz: due Wednesday (7 November 2018)
 
 ### Week 12 (12 November 2018)
 - Nov. 12 is Veterans day.  Enjoy the holiday!
 - Topics: probability in hashing
 - Reading: 4CT Ch 9
-- Homework-08: due Monday (12 November 2018)
+- Homework-09: due Monday (12 November 2018)
 - Online Quiz: due Wednesday (14 November 2018)
 
 ### Week 13 (19 November 2018)
 - Nov. 21 and 23 are part of Thanksgiving Break.  Enjoy the holidays!
-- Homework-09: due Monday (19 November 2018)
+- Homework-10: due Monday (19 November 2018)
 - Topics: probability distributions, variance
 
 ### Week 14 (26 November 2018)
@@ -262,11 +262,11 @@ Student Services within the first two weeks of class.
 ### Week 15 (3 December 2018)
 - Topics: matching, bipartite graphs, pigeon hole principle, planar graphs
 - Reading: Epp. 9.4, 4CT Ch 11
-- Homework-10: due Monday (3 December 2018)
+- Homework-11: due Monday (3 December 2018)
 - Online Quiz: due Wednesday (5 December 2018)
 
 ### Finals Week
-- **Final Exam: cumulative exam, 4:00-5:50pm on the 10th of December [Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf)
+- **Final Exam: cumulative exam, 4:00-5:50pm Dec. 10** ([Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf))
 
 --- 
 
