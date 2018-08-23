@@ -267,7 +267,8 @@ Student Services within the first two weeks of class.
 - Online Quiz: due Wednesday (5 December 2018)
 
 ### Finals Week
-- Final Exam: cumulative exam from 4:00-5:50pm on the 10th of December [Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf)
+- Final Exam: cumulative exam, 4:00-5:50pm on the 10th of December [Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf)
+
 --- 
 
 This syllabus was created, using wording from previous courses that I have
