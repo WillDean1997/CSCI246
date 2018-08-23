@@ -179,37 +179,37 @@ Student Services within the first two weeks of class.
 ### Week 1 (27 August 2018)
 - Topics: Introduction, What is proof?, Sets, Lists
 - Reading: Epp 1.2-3, 4.1-2; EF Lecture 1
-- Online Quiz: due Friday 
+- Online Quiz: due Friday (31 August 2018)
 
 ### Week 2 (5 September 2018)
 - Sept. 3 is Labor day.  Enjoy the holiday!
 - Topics: Binomial coefficients, permutations, combinations, counterexamples 
 - Reading: Epp 4.3-4, 9.2, 9.6
+- Homework-01: due Monday (3 September 2018)
 - Online Quiz: due Wednesday (5 September 2018)
-- Homework-01: due Monday (10 September 2018)
 
 ### Week 3 (10 September 2018)
 - Topics: equivalence relations, boolean algebra 
 - Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3, 4CT Ch Preface
+- Homework-02: due Monday (10 September 2018)
 - Online Quiz: due Wednesday (12 September 2018) 
-- Homework-02: due Monday (17 September 2018)
 
 ### Week 4 (17 September 2018)
 - Topics: quantifiers, predicates, and Big-O notation
 - Reading: Epp Ch. 3.1-3.4, 4CT Ch 1
+- Homework-02: due Monday (17 September 2018)
 - Online Quiz: due Wednesday (19 September 2018) 
-- Exam: Next Monday (24 September 2018)
 
 ### Week 5 (24 September 2018)
-- Exam: Monday the 24th of September
+- **Exam: Monday the 24th of September**
 - Topics: inference
 - Reading: 4CT Ch 2
 - Online Quiz: due Wednesday (26 September 2018)
-- Homework-03: due Monday (1 October 2018)
 
 ### Week 6 (1 October 2018)
 - Topics: mathematical induction, sequences, summations, recursion
 - Reading: Epp Ch. 5.1-5.4, 4CT Ch 3
+- Homework-03: due Monday (1 October 2018)
 - Online Quiz: due Wednesday (3 September 2018)
 - Homework-04: due Monday (8 October 2018)
 
