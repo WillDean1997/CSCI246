@@ -32,7 +32,7 @@ Office hours:
 * Prof. Fasy: T,H 17:10 - 18:30, and by appointment.
 * Sam Micka: TBA
 * Rostik Mertz: TBA
-* Kirby Overmann: TBA
+* Kirby Overman: W,F 15:10 - 16:00.
 
 ## Accessing this Repo
 
@@ -42,7 +42,7 @@ materials for this class.  See the resources below for forking directions.
 
 To clone this repo:
 ```
-$ git clone https://brittany@bitbucket.org/brittany/comptop-s18.git
+$ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
 ```
 
 ## Discussions and Questions
