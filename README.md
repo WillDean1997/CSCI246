@@ -7,7 +7,6 @@ This repository is for class materials for Discrete Structures, Fall 2018, taugh
 The folders in this repository contain all materials for this class.
 
 - lec_notes: Copies of lecture notes and board photos.
-- handouts: Handouts distributed during lecture.
 - hw: homework assignments, as well as a LaTex template for your submissions. 
 
 The schedule is at the bottom of this Markdown file.  If you want to learn more
@@ -57,9 +56,9 @@ By the end of this course, a student:
 ## Grading
 Your grade for this class will be determined by:
 
+- 5% Attendance 
 - 30% Homework
 - 10% Online Quizzes 
-- 5% Attendance 
 - 20% Midterm I
 - 20% Midterm II
 - 15% Final 
@@ -168,7 +167,9 @@ Student Services within the first two weeks of class.
 
 ### Main References
 
-- TODO: add links to the two course textbooks and my lecture notes
+- Epp: TODO: add links to the course textbook
+- EF: [Lecture notes by Edelsbrunner and Fasy]() - TODO: add link
+- 4CT: TODO - add link to 4 color theorem book
 
 ### Additional References
 
@@ -190,7 +191,7 @@ Student Services within the first two weeks of class.
 
 ### Week 3 (10 September 2018)
 - Topics: equivalence relations, boolean algebra 
-- Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3, 4CT Ch Preface
+- Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3; 4CT Ch Preface
 - Homework-02: due Monday (10 September 2018)
 - Online Quiz: due Wednesday (12 September 2018) 
 
