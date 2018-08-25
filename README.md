@@ -1,6 +1,8 @@
-# README #
+# CSCI 246: Discrete Structures, Fall 2018 #
 
 This repository is for class materials for Discrete Structures, Fall 2018, taught by Prof. Fasy.
+
+Course Catalog Description: This course covers logic, discrete probability, recurrence relations, Boolean algebra, sets, relations, counting, functions, maps, Big-O notation, proof techniques including induction, and proof by contradiction.
 
 ### What is in this repository?
 
@@ -22,13 +24,15 @@ Where? Reid 105
 The preferred method to ask questions relating to this class is a public post on
 Piazza.  Please use [this link](piazza.com/montana/fall2018/csci246) to sign up
 for the course in Piazza.
-* [Link to Piazza course page](piazza.com/montana/fall2018/csci246/home)
+
+* [Link to Piazza course page](piazza.com/montana/fall2018/csci246/home) - use this link once you are signed up for the class.
 
 You can direct message Prof. Fasy and the TAs in Piazza, but if you would prefer to email Prof. Fasy, please
 use: brittany.fasy@montana.edu.  
 
 Office hours: 
-* Prof. Fasy: T,H 17:10 - 18:30, and by appointment.
+
+* Prof. Fasy: M,W 17:10 - 18:30, and by appointment.
 * Sam Micka: TBA
 * Rostik Mertz: TBA
 * Kirby Overman: W,F 15:10 - 16:00.
@@ -51,7 +55,15 @@ Group discussions, questions, and announcements will be through [Piazza](piazza.
 ## Course Outcomes and Objectives
 By the end of this course, a student:
 
-- TODO find these! 
+- Understand the basic principles of sets and operations in sets.
+- Prove basic set equalities.
+- Apply counting principles to determine probabilities.
+- Demonstrate an understanding of relations and functions and be able to determine their
+properties.
+- Determine when a function is injective or surjective.
+- Demonstrate the ability to write and evaluate a proof.
+- Outline the basic structure of and give examples of several proof techniques.
+- Model problems in Computer Science using graphs and trees.
 
 ## Grading
 Your grade for this class will be determined by:
@@ -76,12 +88,14 @@ taken throughout the semester.
 All assignments must be submitted by 23:59 on the due date. Late
 assignments will not be accepted.
 
-Throughout this semester, we will have TODO homework assignments.  The top TODO
+Throughout this semester, we will have 12 homework assignments.  The best 10 grades
 will count towards the homework grade.
 
-For descriptive assignments and reports, the submission should be legible
-(preferably typeset in LaTex), and
-submitted as a PDF both in D2L and Gradescope. For code assignments,
+For descriptive assignments and reports, the submission should be typeset
+(preferably in LaTex), and
+submitted as a PDF both in D2L and Gradescope. Each problem should be started on a fresh page.
+
+For code assignments,
 well organized source code with clear comments should be submitted.
 
 ## Policy on Collaboration
@@ -90,13 +104,11 @@ forbidden. Note:
 
 - All collaboration (who and what) must be clearly indicated in writing on 
 anything turned in.  
-- Homeworks may be solved collaboratively except as explicitly forbidden, 
+- Homework may be solved collaboratively except as explicitly forbidden, 
 but solutions must be written up **independently**. 
 This is best done by writing your solutions when not in a group setting.
 Groups should be small 
 enough that each member plays a significant role.
-- For the project, every collaborator must contribute significantly.  How 
-the work is divided is at the discretion of the group.
 
 ## Policy on Academic Integrity
 
@@ -167,13 +179,13 @@ Student Services within the first two weeks of class.
 
 ### Main References
 
-- Epp: TODO: add links to the course textbook
-- EF: [Lecture notes by Edelsbrunner and Fasy]() - TODO: add link
-- 4CT: TODO - add link to 4 color theorem book
+- Epp: [Epp, Discrete Mathematics, Brief Edition](https://www.amazon.com/Discrete-Mathematics-Introduction-Mathematical-Reasoning/dp/0495826170)
+- EF: [Lecture notes by Edelsbrunner and Fasy](https://www.cs.montana.edu/brittany/teaching/discrete/Book.pdf)
+- 4CT: [Wilson, Four Colors Suffice](https://press.princeton.edu/titles/10116.html)
 
 ### Additional References
 
-- [Big-Oh, Intuitive Explanation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [Big-O, Intuitive Explanation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 ## Schedule
 
@@ -258,16 +270,17 @@ Student Services within the first two weeks of class.
 ### Week 14 (26 November 2018)
 - Topics: trees, tours
 - Reading: Epp. 10.1-10.3, 4CT Ch 10
+- Homework-11: due Monday (26 November 2018)
 - Online Quiz: due Wednesday (28 November 2018)
 
 ### Week 15 (3 December 2018)
 - Topics: matching, bipartite graphs, pigeon hole principle, planar graphs
 - Reading: Epp. 9.4, 4CT Ch 11
-- Homework-11: due Monday (3 December 2018)
+- Homework-12: due Monday (3 December 2018)
 - Online Quiz: due Wednesday (5 December 2018)
 
 ### Finals Week
-- **Final Exam: cumulative exam, 4:00-5:50pm Dec. 10** ([Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf))
+- **Cumulative Final Exam: 4:00-5:50pm Dec. 10** ([Fall 2018 finals schedule](http://www.montana.edu/registrar/exams/201870%20Finals%20Week%20Schedule_Version%20B.pdf))
 
 --- 
 
