@@ -26,15 +26,14 @@ Piazza.  Please use [this link](piazza.com/montana/fall2018/csci246) to sign up
 for the course in Piazza.
 
 * [Link to Piazza course page](piazza.com/montana/fall2018/csci246/home) - use this link once you are signed up for the class.
-
-You can direct message Prof. Fasy and the TAs in Piazza, but if you would prefer to email Prof. Fasy, please
+* You can direct message Prof. Fasy and the TAs in Piazza, but if you would prefer to email Prof. Fasy, please
 use: brittany.fasy@montana.edu.  
 
 Office hours: 
 
 * Prof. Fasy: M,W 17:10 - 18:30, and by appointment.
 * Sam Micka: TBA
-* Rostik Mertz: TBA
+* Rostik Mertz: M 8:00 - 9:00.
 * Kirby Overman: W,F 15:10 - 16:00.
 
 ## Accessing this Repo
@@ -196,86 +195,87 @@ Student Services within the first two weeks of class.
 
 ### Week 2 (5 September 2018)
 - Sept. 3 is Labor day.  Enjoy the holiday!
-- Topics: Binomial coefficients, permutations, combinations, counterexamples 
-- Reading: Epp 4.3-4, 9.2, 9.6
+- Topics: Binomial Coefficients, Permutations, Combinations, Counterexamples 
+- Reading: Epp 4.3-4, 9.2, 9.6; EF Lecture 2
 - Homework-01: due Monday (3 September 2018)
 - Online Quiz: due Wednesday (5 September 2018)
 
 ### Week 3 (10 September 2018)
-- Topics: equivalence relations, boolean algebra 
-- Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3; 4CT Ch Preface
+- Topics: Equivalence Relations, Boolean Algebra 
+- Reading: Epp Ch. 2, 4.5-4.6, 8.1-8.3 EF Lectures 3, 8; 4CT Preface
 - Homework-02: due Monday (10 September 2018)
 - Online Quiz: due Wednesday (12 September 2018) 
 
 ### Week 4 (17 September 2018)
-- Topics: quantifiers, predicates, and Big-O notation
-- Reading: Epp Ch. 3.1-3.4, 4CT Ch 1
+- Topics: Quantifiers, Predicates, and Big-O Notation
+- Reading: Epp Ch. 3.1-3.4 EF Lecture 9; 4CT Ch 1
 - Homework-03: due Monday (17 September 2018)
 - Online Quiz: due Wednesday (19 September 2018) 
 
 ### Week 5 (24 September 2018)
 - **Exam: Monday the 24th of September**
-- Topics: inference
-- Reading: 4CT Ch 2
+- Topics: Inference
+- Reading:  EF Lecture 10; 4CT Ch 2
 - Online Quiz: due Wednesday (26 September 2018)
 
 ### Week 6 (1 October 2018)
-- Topics: mathematical induction, sequences, summations, recursion
-- Reading: Epp Ch. 5.1-5.4, 4CT Ch 3
+- Topics: Mathematical Induction, Sequences, Summations, Recursion
+- Reading: Epp Ch. 5.1-5.4; EF Lectures 11, 12; 4CT Ch 3
 - Homework-04: due Monday (1 October 2018)
 - Online Quiz: due Wednesday (3 September 2018)
 
 ### Week 7 (8 October 2018)
-- Topics: growth rates, solving recurrence relations, divide and conquer
-- Reading: Epp Ch. 5.5-5.6, 4CT Ch 4
+- Topics: Growth Rates, Solving Recurrence Relations, Divide and Conquer
+- Reading: Epp Ch. 5.5-5.6;  EF Lectures 13, 14; 4CT Ch 4
 - Homework-05: due Monday (8 October 2018)
 - Online Quiz: due Wednesday (10 September 2018)
 
 ### Week 8 (15 October 2018)
-- Topics: modular arithmetic, inverses (proof by contradiction)
-- Reading: Epp Ch. 8.4, 4CT Ch 5
+- Topics: Modular Arithmetic, Inverses, Proof by Contradiction)
+- Reading: Epp Ch. 8.4; EF Lectures 4, 5; 4CT Ch 5
 - Homework-06: due Monday (15 October 2018)
 - Online Quiz: due Wednesday (17 September 2018)
 
 ### Week 9 (22 October 2018)
-- Topics: Euclid's algorithm, RSA cryptosystem
-- Reading: Epp Ch. 8.5, 4CT Ch 6
+- Topics: Introduction to Algorithms, Euclid's Algorithm, RSA Cryptograph
+- Reading: Epp Ch. 8.5;  EF Lectures 6, 7; 4CT Ch 6
 - Homework-07: due Monday (22 October 2018)
 - Online Quiz: due Wednesday (24 September 2018)
 
 ### Week 10 (29 October 2018)
 - **Exam: Monday the 29th of October**
-- Topics: inclusion and exclusion
-- Reading: Epp Ch. 9.1-9.3, 4CT Ch 7
+- Topics: Inclusion-Exclusion
+- Reading: Epp Ch. 9.1-9.3;  EF Lecture 15; 4CT Ch 7
 - Online Quiz: due Wednesday (29 September 2018)
 
 ### Week 11 (5 November 2018)
-- Topics: conditional probability, random variables, expected values
-- Reading: 4CT Ch 8
+- Topics: Conditional Probability, Random Variables, Expected Values
+- Reading:  EF Lecture 16, 17; CT Ch 8
 - Homework-08: due Monday (5 November 2018)
 - Online Quiz: due Wednesday (7 November 2018)
 
 ### Week 12 (12 November 2018)
 - Nov. 12 is Veterans day.  Enjoy the holiday!
-- Topics: probability in hashing
-- Reading: 4CT Ch 9
+- Topics: Probability in Hashing
+- Reading:  EF Lecture 18; CT Ch 9
 - Homework-09: due Monday (12 November 2018)
 - Online Quiz: due Wednesday (14 November 2018)
 
 ### Week 13 (19 November 2018)
 - Nov. 21 and 23 are part of Thanksgiving Break.  Enjoy the holidays!
+- Reading:  EF Lecture 19
 - Homework-10: due Monday (19 November 2018)
 - Topics: probability distributions, variance
 
 ### Week 14 (26 November 2018)
-- Topics: trees, tours
-- Reading: Epp. 10.1-10.3, 4CT Ch 10
+- Topics: Trees, Tours
+- Reading: Epp. 10.1-10.3; EF Lectures 20, 21; 4CT Ch 10
 - Homework-11: due Monday (26 November 2018)
 - Online Quiz: due Wednesday (28 November 2018)
 
 ### Week 15 (3 December 2018)
-- Topics: matching, bipartite graphs, pigeon hole principle, planar graphs
-- Reading: Epp. 9.4, 4CT Ch 11
+- Topics: Graphs, Matching, Bipartite Graphs, Pigeonhole Principle
+- Reading: Epp. 9.4; - Reading:  EF Lectures 22, 23; 4CT Ch 11
 - Homework-12: due Monday (3 December 2018)
 - Online Quiz: due Wednesday (5 December 2018)
 
