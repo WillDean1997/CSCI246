@@ -22,7 +22,7 @@ Where? Reid 105
 ## How do I contact you?
 
 The preferred method to ask questions relating to this class is a public post on
-Piazza.  Please use [this link](piazza.com/montana/fall2018/csci246) to sign up
+Piazza.  Please use [this link](https://piazza.com/montana/fall2018/csci246) to sign up
 for the course in Piazza.
 
 * [Link to Piazza course page](piazza.com/montana/fall2018/csci246/home) - use this link once you are signed up for the class.
