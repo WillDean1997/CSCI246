@@ -52,17 +52,15 @@ $ git clone https://bitbucket.org/msu-cs/csci-246-fall2018.git
 Group discussions, questions, and announcements will be through [Piazza](piazza.com/montana/fall2018/csci246/home).
 
 ## Course Outcomes and Objectives
-By the end of this course, a student:
+By the end of this course, a student will:
 
-- Understand the basic principles of sets and operations in sets.
-- Prove basic set equalities.
-- Apply counting principles to determine probabilities.
-- Demonstrate an understanding of relations and functions and be able to determine their
-properties.
-- Determine when a function is injective or surjective.
-- Demonstrate the ability to write and evaluate a proof.
-- Outline the basic structure of and give examples of several proof techniques.
-- Model problems in Computer Science using graphs and trees.
+- Be able to use formal proof techniques, including mathematical induction and proof by contradiction.
+- Understand algorithmic complexity and be able to use it to compare different program designs for a problem.
+- Solve problems that use logic, sets, and functions.
+- Solve problems using Boolean algebra.
+- Solve problems that use permutations and combinations.
+- Solve problems that use discrete probability.
+- Solve problems that use basic graph theory.
 
 ## Grading
 Your grade for this class will be determined by:
