@@ -32,7 +32,7 @@ use: brittany.fasy@montana.edu.
 Office hours: 
 
 * Prof. Fasy: M,W 17:10 - 18:30, and by appointment.
-* Sam Micka: TBA
+* Sam Micka: T,Th 13:10-14:00
 * Rostik Mertz: M 8:00 - 9:00.
 * Kirby Overman: W,F 15:10 - 16:00.
 
