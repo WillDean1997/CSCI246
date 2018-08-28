@@ -25,7 +25,7 @@ The preferred method to ask questions relating to this class is a public post on
 Piazza.  Please use [this link](https://piazza.com/montana/fall2018/csci246) to sign up
 for the course in Piazza.
 
-* [Link to Piazza course page](piazza.com/montana/fall2018/csci246/home) - use this link once you are signed up for the class.
+* [Link to Piazza course page](https://piazza.com/montana/fall2018/csci246/home) - use this link once you are signed up for the class.
 * You can direct message Prof. Fasy and the TAs in Piazza, but if you would prefer to email Prof. Fasy, please
 use: brittany.fasy@montana.edu.  
 
@@ -90,7 +90,8 @@ will count towards the homework grade.
 
 For descriptive assignments and reports, the submission should be typeset
 (preferably in LaTex), and
-submitted as a PDF both in D2L and Gradescope. Each problem should be started on a fresh page.
+submitted as a PDF both in D2L and [Gradescope](https://www.gradescope.com). Each problem should be started on a fresh page.
+* Code to sign up for [Gradescope](https://www.gradescope.com): M8NJY5
 
 For code assignments,
 well organized source code with clear comments should be submitted.
